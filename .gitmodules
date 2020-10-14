@@ -1,0 +1,9 @@
+[submodule "web"]
+	path = web
+	url = https://github.com/Aronzhiliangwang/demo-web.git
+[submodule "service"]
+	path = service
+	url = https://github.com/Aronzhiliangwang/demo-service.git
+[submodule "dao"]
+	path = dao
+	url = https://github.com/Aronzhiliangwang/demo-dao.git
